@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\1112-hw\\p27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6021E9BD-04EE-4DFC-A767-B00722C1AEE8}|p27\\p27.vcxproj|C:\\Users\\user\\Desktop\\1112-hw\\p27\\p27\\p27.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6021E9BD-04EE-4DFC-A767-B00722C1AEE8}|p27\\p27.vcxproj|solutionrelative:p27\\p27.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p27.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1112-hw\\p27\\p27\\p27.c",
+              "RelativeDocumentMoniker": "p27\\p27.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1112-hw\\p27\\p27\\p27.c",
+              "RelativeToolTip": "p27\\p27.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-10T14:06:22.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

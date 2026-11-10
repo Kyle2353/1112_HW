@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\1112-hw\\p15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3CE05F-05BA-4E6D-9B6C-25E69B3DF8D2}|p15\\p15.vcxproj|C:\\Users\\user\\Desktop\\1112-hw\\p15\\p15\\p15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F3CE05F-05BA-4E6D-9B6C-25E69B3DF8D2}|p15\\p15.vcxproj|solutionrelative:p15\\p15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p15.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1112-hw\\p15\\p15\\p15.c",
+              "RelativeDocumentMoniker": "p15\\p15.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1112-hw\\p15\\p15\\p15.c",
+              "RelativeToolTip": "p15\\p15.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-10T13:36:13.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
